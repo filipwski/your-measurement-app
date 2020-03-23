@@ -1,5 +1,5 @@
 # your-measurement-app
-A measurement device project consisting of 2 modules: a *Raspberry Pi* masurement app and a cross-platform mobile app allowing to display the collected data.
+A measurement device project consisting of 2 modules: a *Raspberry Pi* measurement app and a cross-platform mobile app allowing to display the collected data.
 
 # your-measurement-embedded
 In the original project it was a *Raspberry Pi 3B* device with connected temperature and humidity mesurers. The device made a measurement every i.e. 5 seconds (depending on the delay set) and then sent it to the JSON-oriented database in the *Firebase* 'serverless' service.
