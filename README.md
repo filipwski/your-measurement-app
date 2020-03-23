@@ -4,7 +4,7 @@ A measurement device project consisting of 2 modules: a *Raspberry Pi* masuremen
 # your-measurement-embedded
 In the original project it was a *Raspberry Pi 3B* device with connected temperature and humidity mesurers. The device made a measurement every i.e. 5 seconds (depending on the delay set) and then sent it to the JSON-oriented database in the *Firebase* 'serverless' service.
 
-To make the device work, it's needed to prepare a back-end service (i.e. in form of the *Firebase* service) and set in the *index.js* file.
+To make the device work, it's needed to provide a back-end service and set it in the *index.js* file.
 
 To start the masurement process, run on the device the *index.js* file with:
 
