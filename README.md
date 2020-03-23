@@ -13,6 +13,6 @@ npm run
 ```
 
 # your-measurement-mobile
-It's a *React Natice* app project allowing to display data collected by the measurement device. It hardly depends on the *Firebase* service - it's needed to create and authenticate the user account and to associate it with a masurement device. In the currect project version, the device used to prepare the **your-measurement-embedded** module was *hardcoded* as available for all users by default.
+It's a *React Natice* app project allowing to display data collected by the measurement device. It heavily depends on the *Firebase* service - it's needed to create and authenticate the user account and to associate it with a masurement device. In the currect project version, the device used to prepare the **your-measurement-embedded** module was *hardcoded* as available for all users by default.
 
 To run the app, you can *clone* the **your-measurement-mobile** module and start it using the [Expo](https://guides.github.com/features/mastering-markdown/) service.
